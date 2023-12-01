@@ -15,8 +15,19 @@
   - [Number Memory](https://humanbenchmark.com/tests/number-memory)
   - [Verbal Memory](https://humanbenchmark.com/tests/verbal-memory)
   - [Chimp Test](https://humanbenchmark.com/tests/chimp)
+    <details>
+      <summary>Notes</summary>
+    
+       - Click on numbered boxes (shown then hidden) in order
+       - pretty easy to goodhart and treat as an ordered digit memorization test
+       </details>
   - [Visual Memory (tiles)](https://humanbenchmark.com/tests/memory)
   - [Typing speed](https://humanbenchmark.com/tests/typing)
+      <details>
+      <summary>Notes</summary>
+    
+       - Worse than monkeytype
+       </details>
   </details>
   <details>
   <summary>Gists and such</summary>
