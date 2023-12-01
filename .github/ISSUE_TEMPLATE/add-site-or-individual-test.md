@@ -8,6 +8,7 @@ assignees: ''
 ---
 
 Site/test link:
+Meta notes about submission:
 Description/notes:
 Links to additional data/code if any:
 
