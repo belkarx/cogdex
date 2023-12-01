@@ -26,9 +26,6 @@
   - [Keyboard Control of Vocab Test (*-monkey)](https://gist.github.com/belkarx/1e86a5dcba144a329282f1997b3c773a)
   </details>
 
-  
----
-
 
 ## Loose Individual Tests
 [WAIS-IV Symbol Search](https://wais-iv-symbol-search-f568d4.netlify.app/)
