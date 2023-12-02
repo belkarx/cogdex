@@ -70,7 +70,7 @@
   </details>
   
   <details>
-  <summary>Subtests</summary>
+  <summary>Subtests (ranked by g correlation)</summary>
   
   - SBV (no link)   
   - SBIV (no link)
@@ -82,6 +82,11 @@
   - WJ-IV (no link)
   - RAIT (no link)
   - AGCT
+    <details>
+    <summary>Notes</summary>
+    
+    - middle school level math with a time limit + fun spatial questions + SAT style vocab
+    </details>
   - ASVAB - 3rdE, 4thE, 3rdP
   - WAIS-3 (no link)
   - WAIS-R (no link)
@@ -124,6 +129,11 @@
   - G-36/38
   - Ravens 2- (incl Short, Long Form)
   - Mensa.no
+    <details>
+    <summary>Notes</summary>
+    
+    - Raven's matrices. gets fun + challenging near end
+    </details>
   - MITRE
   - PDIT
   - 123test.com
