@@ -81,3 +81,10 @@
     
   - Pretty good raven's matrices. starts out easy, last couple are more challenging. doesn't tell you answers at the end
   </details>
+  [1980s SAT](https://pdfhost.io/v/F3fb0u6uV_SAT_1980pdf.pdf)
+  <details>
+  <summary>Notes</summary>
+    
+  - PDF is hard to find
+  - Comes with IQ conversion table!
+  </details>
