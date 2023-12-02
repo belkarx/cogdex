@@ -62,6 +62,77 @@
   - [RDOC Report (averages, stddev, etc)](https://testmybrain.org/RDOC_Report/)
   </details>
 
+[r/cognitivetesting index](https://www.reddit.com/r/cognitiveTesting/comments/146fmpr/comprehensive_online_resources_list/)
+  <details>
+  <summary>Notes</summary>
+    
+  - Incredible index of a IQ tests and norms
+  </details>
+  
+  <details>
+  <summary>Subtests</summary>
+  
+  - SBV (no link)   
+  - SBIV (no link)
+  - WISC-5 (no link)
+  - WAIS-4 (no link)
+  - Old SAT
+  - Old GRE
+  - WAIS (no link)
+  - WJ-IV (no link)
+  - RAIT (no link)
+  - AGCT
+  - ASVAB - 3rdE, 4thE, 3rdP
+  - WAIS-3 (no link)
+  - WAIS-R (no link)
+  - WISC-4 (no link)
+  - WISC-3 (no link)
+  - WB (no link)
+  - WASI-2 (no link)
+  - RIAS (no link)
+  - KBIT
+  - Cogn-IQ
+  - JCTI
+  - TRI52
+  - CAIT
+  - WN/C-09 (incl current, old)
+  - JCFS
+  - IAW (incl current, old)
+  - JCCES (incl current, old)
+  - ICAR16
+  - ICAR60
+  - Word Similarities
+  - TONI-2
+  - TIG-2
+  - D-48/70
+  - CMT-A/B
+  - RAPM
+  - FRT Form A
+  - BETA-3
+  - WNV
+  - Brght
+  - PAT
+  - Mensa.dk
+  - Wonderlic
+  - SEE30
+  - Tutui R
+  - PMA
+  - CFIT
+  - NPU
+  - SACFT
+  - CFNSE
+  - G-36/38
+  - Ravens 2- (incl Short, Long Form)
+  - Mensa.no
+  - MITRE
+  - PDIT
+  - 123test.com
+  - Arealme
+  - IQTest.com
+    
+  - **See the index for a table with existence of norms, and clickable links where applicable**
+  </details>
+
 ## Loose Individual Tests
 [WAIS-IV Symbol Search](https://wais-iv-symbol-search-f568d4.netlify.app/)
   <details>
@@ -73,19 +144,4 @@
   <summary>Gists and such</summary>
     
   - [Tampermonkey and js scripts to tint screen red whenever a mistake is made](https://gist.github.com/anthruni/876edc5c665c00634bfaf3881915ac39)
-  </details>
-
-[mensa.no](https://test.mensa.no/)
-  <details>
-  <summary>Notes</summary>
-    
-  - Pretty good raven's matrices. starts out easy, last couple are more challenging. doesn't tell you answers at the end
-  </details>
-  
-[1980s SAT](https://pdfhost.io/v/F3fb0u6uV_SAT_1980pdf.pdf)
-  <details>
-  <summary>Notes</summary>
-    
-  - PDF is hard to find
-  - Comes with IQ conversion table!
   </details>
