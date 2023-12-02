@@ -74,3 +74,10 @@
     
   - [Tampermonkey and js scripts to tint screen red whenever a mistake is made](https://gist.github.com/anthruni/876edc5c665c00634bfaf3881915ac39)
   </details>
+
+[mensa.no](https://test.mensa.no/)
+  <details>
+  <summary>Notes</summary>
+    
+  - Pretty good raven's matrices. starts out easy, last couple are more challenging. doesn't tell you answers at the end
+  </details>
