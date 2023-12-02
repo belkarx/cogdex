@@ -159,3 +159,18 @@
     
   - [Tampermonkey and js scripts to tint screen red whenever a mistake is made](https://gist.github.com/anthruni/876edc5c665c00634bfaf3881915ac39)
   </details>
+  
+#### Reverse Digit Span Test
+[link](https://www.memorylosstest.com/digit-span/)
+  <details>
+  <summary>Notes</summary>
+
+  - have to click the button that says "reverse"
+  - with sound. this may contribute to memorability a lot more than just visuals. can mute.
+  </details>
+  <details>
+  <summary>Gists and such</summary>
+    
+  - [working memory can be improved by just using fingers](https://psycnet.apa.org/record/1985-05827-001)
+    - I expect this effect is also shown if you say the numbers aloud and use primarily auditory memory, if you're an internal monologue person
+  </details>
